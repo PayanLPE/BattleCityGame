@@ -56,10 +56,9 @@ Battle City is a multi-directional shooter video game for the Family Computer pr
 
 ### Built With
 
-Java, JavaFX.
+Java
 
 * [Java](https://www.java.com/)
-* [JavaFX](https://openjfx.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
